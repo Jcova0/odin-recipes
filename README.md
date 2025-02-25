@@ -1,1 +1,2 @@
 # odin-recipes
+The focus for this project was to create a simple recipe webpage using a combination of unordered lists, links, images, and various other tags to reinforce our knowledge of these common and foundational concepts in web development.
